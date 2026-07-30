@@ -1,5 +1,5 @@
 {
-	"name": "pl_ingest_visualcrossing_landing_dev",
+	"name": "pl_ingest_visualcrossing_landing_dev_daily",
 	"properties": {
 		"activities": [
 			{
@@ -108,7 +108,8 @@
 		],
 		"parameters": {
 			"city": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "brasilia"
 			},
 			"date": {
 				"type": "string"
