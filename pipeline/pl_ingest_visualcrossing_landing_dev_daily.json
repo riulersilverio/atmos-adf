@@ -112,7 +112,8 @@
 				"defaultValue": "brasilia"
 			},
 			"date": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "@utcnow('yyyy-MM-dd')"
 			}
 		},
 		"folder": {
