@@ -1,0 +1,9 @@
+{
+	"name": "pl_ingest_inmet_landing_dev",
+	"properties": {
+		"folder": {
+			"name": "INMET"
+		},
+		"annotations": []
+	}
+}
